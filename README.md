@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Sistema Protec</title>
 </head>
 <body>
-<h1>Protec - Sistema de Monitoramento</h1>
+<h1>Sistema Protec </h1>
  
  <p>Este repositório contém o projeto <strong>Protec</strong>, um sistema desenvolvido para monitoramento e controle de ambientes. O sistema é escrito em Python e inclui diversas funcionalidades voltadas para segurança e vigilância.</p>
 
